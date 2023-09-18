@@ -9,6 +9,7 @@
 - esx_multicharacter
 - esx_joblisting
 - esx_taxijob
+- esx_billing
 - esx_barbershop
 - esx_clotheshop
 - esx_jobs
